@@ -235,12 +235,4 @@ Route::resource('contacts', ContactController::class);
 
 ---
 
-## 👤 Auteur
 
-**Hajar Bensalah**
-
-- 📧 Email : [hajar.bensalah@email.com](mailto:hajar.bensalah@email.com)
-- 🐙 GitHub : [@HajarBensalah](https://github.com/HajarBensalah)
-- 💼 LinkedIn : [linkedin.com/in/hajar-bensalah](https://linkedin.com/in/hajar-bensalah)
-
----
